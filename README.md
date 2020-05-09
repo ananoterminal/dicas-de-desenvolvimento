@@ -27,3 +27,9 @@
       data/hora local). Isso simplifica fazer operações com essas datas sem ter que ficar
       consultando alterações de timezone (ex. no ano em questão teve horário de verão nessa data?
       nesse país/estado?
+
+5. Tenha curiosidade em entender como funciona a tecnologia que você usa
+    1. Não fique na zona de conforto de linguagens e frameworks. Procure entender como funciona 
+       "por debaixo dos panos" para assim você ter mais facilidade ao resolver um problema que possa ocorrer.
+       Pesquise sobre conceitos de computação como Estruturas de Dados, por exemplo, pois assim também há chances
+       de otimizar cada vez mais seu código.
