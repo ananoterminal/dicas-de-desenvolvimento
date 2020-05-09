@@ -36,3 +36,10 @@
        
 6. Ao desenvolver uma feature / projeto novo, tente fazer a versão mais simples do projeto, foque no MVP.
     1. Não se apegue a coisas como "qual tipo de autenticação devo usar ?", "qual é a forma mais performática de fazer isso?", na grande maioria das vezes é muito melhor desenvolver a solução e depois refatorar, isso pode te salvar muito tempo que você gastaria tentando fazer da melhor forma desde a primeira vez.
+
+7. Sempre valide dados de input dos usuários, tanto no frontend como no backend.
+    1. Ao validarmos apenas um deles, deixamos a aplicação vulnerável a requests maliciosos.
+    2. A validação de entrada pode ser implementada usando qualquer técnica de programação que permita validar efetivamente a sintática e semântica, por exemplo:
+        1. Validação em relação ao esquema JSON e XML Schema (XSD) para entrada nesses formatos.
+        2. Expressões regulares para qualquer outro dado estruturado que cubra toda a cadeia de entrada (^ ... $) e que não use o "qualquer character" (como. Ou \ S).
+        3. Array de valores permitidos para pequenos conjuntos de strings (por exemplo, dias da semana).
