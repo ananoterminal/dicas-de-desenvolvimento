@@ -33,3 +33,5 @@
        "por debaixo dos panos" para assim você ter mais facilidade ao resolver um problema que possa ocorrer.
        Pesquise sobre conceitos de computação como Estruturas de Dados e Programação Orientada a Objetos, assim há chances
        de otimizar cada vez mais seu código.
+6. Ao desenvolver uma feature / projeto novo tenta fazer a versão mais simples do projeto, foque no MVP
+   1. Não se apegue a coisas como "qual tipo de autenticação?", "qual é a forma mais performática de fazer isso?", na grande maioria das vezes é muito melhor desenvolver a solução e depois refatorar, isso pode te salvar muito tempo que você gastaria tentando fazer da melhor forma desde a primeira vez.
