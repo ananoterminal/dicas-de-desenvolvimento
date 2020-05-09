@@ -6,7 +6,7 @@
 
 1. Se você não vai usar o dado para cálculos prefira armazená-lo como string.
 
-   1. Nunca valide o campo de CPF como inteiro, use o tipo string. Por exemplo: Se o CPF é 050.***.***.***-** irá ficar 50*.***.***-*.
+   1. Nunca valide o campo de CPF como inteiro, use o tipo string. Por exemplo: Se o CPF é `050.***.***.***-**` irá ficar `50*.***.***-*`.
    
 2. Armazene só o que é necessário no dado. Não armazene caracteres de formatação. (ex.
    `12345678901` e não `123.456.789-01`.
