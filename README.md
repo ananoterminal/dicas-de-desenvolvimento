@@ -1,10 +1,10 @@
 # Dicas de Desenvolvimento
 
-### Este repositório é colaborativo e tem como objetivo reunir dicas legais de desenvolvimento.
+**Este repositório é colaborativo e tem como objetivo reunir dicas legais de desenvolvimento.**
 
 ---
 
-**Dicas:**
+## Dicas
 
 1. Se você não vai usar o dado para cálculos prefira armazená-lo como string.
    1. Nunca valide o campo de CPF como inteiro, use o tipo string. Por exemplo: Se o CPF é `050.***.***.***-**` irá ficar `50*.***.***-*`.
