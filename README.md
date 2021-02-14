@@ -30,3 +30,13 @@
       1. Validação em relação ao esquema JSON e XML Schema (XSD) para entrada nesses formatos.
       2. Expressões regulares para qualquer outro dado estruturado que cubra toda a cadeia de entrada (^ ... $) e que não use o "qualquer character" (como. Ou \ S).
       3. Array de valores permitidos para pequenos conjuntos de strings (por exemplo, dias da semana).
+
+## 🤝 Contribuindo 
+
+Todo tipo de contribuição é bem-vinda, nós admiramos isso!
+
+Tem algum problema? Encontrou um bug ou exercício incorreto? Tem alguma dica? Abra uma [issue](https://github.com/ananoterminal/dicas-de-desenvolvimento/issues) descrevendo.
+
+Quer contribuir com código? Pedimos que antes leia [este guia de contribuição](https://github.com/firstcontributions/first-contributions)
+
+Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
