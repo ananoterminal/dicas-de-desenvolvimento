@@ -40,3 +40,6 @@ Tem algum problema? Encontrou um bug ou exercício incorreto? Tem alguma dica? A
 Quer contribuir com código? Pedimos que antes leia [este guia de contribuição](https://github.com/firstcontributions/first-contributions)
 
 Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
+
+---
+Criado por [Ano no Terminal](https://github.com/ananoterminal) :heart:
