@@ -42,4 +42,4 @@ Quer contribuir com código? Pedimos que antes leia [este guia de contribuição
 Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
 
 ---
-Criado por [Ano no Terminal](https://github.com/ananoterminal) :heart:
+Criado por [Ana no Terminal](https://github.com/ananoterminal) :heart:
